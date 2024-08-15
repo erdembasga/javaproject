@@ -5,6 +5,7 @@ public class D1 {
     public static void main(String[] args) {
         String name = "Alice";
         System.out.println(name);
-        //deneme has been done
+        String name2 = "Vera";
+        System.out.println(name2);
     }
 }
